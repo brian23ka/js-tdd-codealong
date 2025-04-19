@@ -6,4 +6,4 @@ describe("currentAgeForBirthYear", () => {
     const ageOfPerson = currentAgeForBirthYear(birthYear);
     expect(ageOfPerson).toBe(38);
   });
-});
+});  
